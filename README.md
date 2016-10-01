@@ -6,7 +6,10 @@ Just like our csgodouble bot, this bot needs you to meet one of the requirements
 
 ## Requirements
 Requires [Greasemonkey](http://www.greasespot.net/) on Firefox and [Tampermonkey](http://tampermonkey.net/) on Chrome.
+
 Avoid any bugs by having already deposited some bitcoin.
+
+## [Install](	https://raw.githubusercontent.com/Primedice-Bot/primedice/master/bot.js)
 
 ## Site looks like this when bot is installed correctly.
 
