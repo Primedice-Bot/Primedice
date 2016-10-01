@@ -1,3 +1,6 @@
+##### Note: We are in need of donations ADDRESS: 36o42wx14E3gyTycptFWkthriFoLX5HEjn
+
+
 We're back again with a new gambling bot.
 We're the makers of the [csgodouble/csgopolygon bot](https://github.com/Csdouble-bot/csgodouble), due to the sites getting closed down we have decided to focus on bitcoin gambling bots.
 With this bot we guarantee that you'll make profit, this depends on the amount being gambled.
