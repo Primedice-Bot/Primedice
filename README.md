@@ -1,5 +1,5 @@
 ##### Note: We are in need of donations ADDRESS: 36o42wx14E3gyTycptFWkthriFoLX5HEjn
-###### Currently I'm selling access to the script, as this one no longer works properly.   ADDRESS: 36o42wx14E3gyTycptFWkthriFoLX5HEjn    It has to be a 0.0114 Bitcoin donation exact, when you send it you should leave your email so I can send it to you. 
+#### Currently I'm selling access to the script, as this one no longer works properly.   ADDRESS: 36o42wx14E3gyTycptFWkthriFoLX5HEjn    It has to be a 0.0114 Bitcoin donation exact, when you send it you should leave your email so I can send it to you. 
 
 
 We're back again with a new gambling bot.
@@ -19,8 +19,8 @@ Avoid any bugs by having already deposited some bitcoin.
 
 Program interface
 
-![Screenshot](https://i.gyazo.com/0309c776813d575d0738a51b2a95a1fd.png)
-![Screenshot](https://i.gyazo.com/106f421b0dd7fe3572b806dcaf5d2aa8.png)
+![Screenshot](http://i.imgur.com/vNUJynF.png)
+![Screenshot](http://i.imgur.com/qxJBped.png)
 
 
 ## Is it safe?
