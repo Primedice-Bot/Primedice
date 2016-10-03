@@ -1,4 +1,5 @@
 ##### Note: We are in need of donations ADDRESS: 36o42wx14E3gyTycptFWkthriFoLX5HEjn
+###### Currently I'm selling access to the script, as this one no longer works properly.   ADDRESS: 36o42wx14E3gyTycptFWkthriFoLX5HEjn    It has to be a 0.0114 Bitcoin donation exact, when you send it you should leave your email so I can send it to you. 
 
 
 We're back again with a new gambling bot.
