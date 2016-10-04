@@ -1,5 +1,8 @@
 ##### Note: We are in need of donations ADDRESS: 36o42wx14E3gyTycptFWkthriFoLX5HEjn
-#### Currently I'm selling access to the script, as this one no longer works properly.   ADDRESS: 36o42wx14E3gyTycptFWkthriFoLX5HEjn    It has to be a 0.0114 Bitcoin donation exact, when you send it you should leave your email so I can send it to you. 
+#### Currently I'm selling access to the script, as this one no longer works properly.   ADDRESS: 36o42wx14E3gyTycptFWkthriFoLX5HEjn 
+#### The not updated version (Working) needs to be a 0.0057 Bitcoin Donation exact, when you send it you should leave your email so I can send it to you by mail.   The updated version that I constantly update has to be a 0.0114 Bitcoin Donation exact, when you send it leave your email so I can send it to you by mail. 
+#### Both updated and not updated version contain support if you need it. (When you send the donation I'll mail you and you can mail me for any questions). 
+#### Within 24 hours of your donation I'll mail you. If I don't mail you within 24 hours, I'll give you $2 USD back (0.0033 Bitcoin).
 
 
 We're back again with a new gambling bot.
